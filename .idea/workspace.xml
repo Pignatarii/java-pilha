@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f202d56-9da9-4bcc-b717-41f4353b5255" name="Changes" comment="A1-F">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5f202d56-9da9-4bcc-b717-41f4353b5255" name="Changes" comment="A2-F">
+      <change afterPath="$PROJECT_DIR$/src/FluxoComError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinhaExcecao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fluxo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fluxo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,12 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FluxoComError">
     <configuration name="Fluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fluxo" />
       <module name="java-pilha" />
@@ -50,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FluxoComError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FluxoComError" />
+      <module name="java-pilha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FluxoComError" />
         <item itemvalue="Application.Fluxo" />
       </list>
     </recent_temporary>
@@ -72,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653338766415</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="A2-F">
+      <created>1653480643578</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653480643578</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A1-F" />
-    <option name="LAST_COMMIT_MESSAGE" value="A1-F" />
+    <MESSAGE value="A2-F" />
+    <option name="LAST_COMMIT_MESSAGE" value="A2-F" />
   </component>
 </project>
